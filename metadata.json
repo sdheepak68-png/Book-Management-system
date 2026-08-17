@@ -1,0 +1,6 @@
+{
+  "name": "Bookstore Management System",
+  "description": "Enterprise full-stack bookstore platform featuring catalog search, shopping cart, order tracking, reviews, reading lists, admin dashboard, and internship architecture explorer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
